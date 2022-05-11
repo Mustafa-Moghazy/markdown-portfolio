@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. C++
+2. Java Script
+   1. React
+   2. Nodejs
